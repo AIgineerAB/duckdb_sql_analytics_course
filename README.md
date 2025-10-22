@@ -1,0 +1,1 @@
+# duckdb_sql_analytics_course
