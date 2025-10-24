@@ -141,6 +141,8 @@ This will open up a local UI in your browser where you can run sql commands and 
 <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/local_ui_yt_videos.png?raw=true" width=500/>
 
 
+By default all the sql code you've written in the local UI is saved in .duckdb_history folder in your home directory. But you can only access the SQL code you've written in the local UI from that specific computer.
+
 > [!IMPORTANT]
 > even though we'll use this local UI to interact with duckdb databases, we will copy the sql code into sql files in the sql folder of the repository for version control. You should also do this so that you have a history of your sql code in your repository.
 
