@@ -133,10 +133,17 @@ Now close down the database connection and open it up again, then do wildcard se
 As of June 2024 duckdb has a local UI that you can use to interact with your duckdb databases. To start the UI run this command in your terminal
 
 ```bash
-duckdb ui yt_videos.duckdb
+duckdb -ui yt_videos.duckdb
 ```
 
 This will open up a local UI in your browser where you can run sql commands and see the results, similar to a jupyter notebook interface, but for duckdb.
+
+<img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/local_ui_yt_videos.png?raw=true" width=500/>
+
+
+> [!IMPORTANT]
+> even though we'll use this local UI to interact with duckdb databases, we will copy the sql code into sql files in the sql folder of the repository for version control. You should also do this so that you have a history of your sql code in your repository.
+
 
 ## Meta commands
 
