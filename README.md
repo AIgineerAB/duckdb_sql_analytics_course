@@ -12,7 +12,6 @@ In this course, you'll dive into fundamental SQL including
 For this you will be using the following tools:
 
 - duckdb
-- dbeaver
 - duckdb CLI
 - python
 - bash
