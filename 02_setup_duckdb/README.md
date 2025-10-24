@@ -22,9 +22,15 @@ Follow [this link to install duckdb](https://duckdb.org/docs/installation/?versi
 
 <details>
   <summary><b>Mac</b></summary>
-  ```bash
-  curl https://install.duckdb.org | sh
-  ```
+Use homebrew to install duckdb by running this command in your terminal
+
+```bash
+brew install duckdb
+```
+
+> [!NOTE]
+> if you don't have homebrew installed, follow [this link to install homebrew](https://brew.sh/).
+
 </details>
 
 <details>
@@ -37,7 +43,7 @@ To add environment variable, you should go into system properties &gt; advanced 
 Now go into git bash and run
 
 ```bash
-duckdb --version
+duckdb version
 ```
 
 to see if it worked.
