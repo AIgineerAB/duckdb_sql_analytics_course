@@ -40,7 +40,6 @@ Click direct download and unzip so you get the .exe file. Copy the .exe file and
 
 To add environment variable, you should go into system properties &gt; advanced &gt; environment variables &gt; under system variables find path &gt; edit &gt; new &gt; add the path to the duckdb folder you created &gt; ok &gt; ok &gt; ok.
 
-
 </details>
 
 Now go into git bash and run
@@ -94,20 +93,32 @@ To close down the database connection do `ctrl + D` for mac and `ctrl + C` for w
 
 ## Ingest data
 
-Now we'll ingest data from a csv file into our test.duckdb. So start by opening up a connection to your database file
+Now we'll ingest data from a csv file into a database called `yt_videos.duckdb`. So start by building up a file structure like this
 
-```bash
-duckdb test_yt.duckdb
+```
+├── data
+│   └── aigineer_yt_2024_2025.csv
+└── sql
+    └── ingest_data.sql
 ```
 
-Then to ingest the data into the database run
+write this code in ingest_data.sql
 
 ```sql
 CREATE TABLE IF NOT EXISTS
   videos AS (
-    SELECT * FROM read_csv_auto('yt_videos.csv')
+    SELECT * FROM read_csv_auto('data/aigineer_yt_2024_2025.csv')
     );
 ```
+
+now run the sql script to ingest the data into a duckdb database called `yt_videos.duckdb` using input redirection in bash
+
+```bash
+duckdb yt_videos.duckdb < sql/ingest_data.sql
+```
+
+> [!NOTE]
+> Make sure you are outside data and sql folder when you run the command above.
 
 Finally we'll check that the data is there by selecting all the columns (wildcard selection)
 
@@ -117,15 +128,17 @@ SELECT * FROM videos;
 
 Now close down the database connection and open it up again, then do wildcard selection once more and test out `desc` as well to see that the data is persistent. Close down the database connection, git commit your changes and push it to github.
 
-## Meta commands
+## Local UI 
 
-In duckdb CLI you could read the data directly from a SQL script by doing a input redirection
+As of June 2024 duckdb has a local UI that you can use to interact with your duckdb databases. To start the UI run this command in your terminal
 
 ```bash
-duckdb test_yt.duckdb < ingest_data.sql
+duckdb ui yt_videos.duckdb
 ```
 
-where the SQL commands for ingesting the data is in the file ingest_data.sql and placed in the same directory. This sends the content from ingest_data.sql into duckdb test_yt.duckdb as an argument, which makes it run the code.
+This will open up a local UI in your browser where you can run sql commands and see the results, similar to a jupyter notebook interface, but for duckdb.
+
+## Meta commands
 
 Another way is to use a meta command once you've started a duckdb session you can do `.read ingest_data.sql` to run it. Meta commands or dot commands in duckdb starts with a . and are used to perform variopus administrative and informational tasks in duckdb CLI.
 
