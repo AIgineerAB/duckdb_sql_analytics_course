@@ -40,6 +40,9 @@ Click direct download and unzip so you get the .exe file. Copy the .exe file and
 
 To add environment variable, you should go into system properties &gt; advanced &gt; environment variables &gt; under system variables find path &gt; edit &gt; new &gt; add the path to the duckdb folder you created &gt; ok &gt; ok &gt; ok.
 
+
+</details>
+
 Now go into git bash and run
 
 ```bash
@@ -47,8 +50,6 @@ duckdb version
 ```
 
 to see if it worked.
-
-</details>
 
 ## Bash commands
 
