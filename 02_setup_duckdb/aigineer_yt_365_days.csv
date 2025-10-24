@@ -1,0 +1,264 @@
+Innehåll,Videotitel,Publiceringstid för video,Längd,Visningar,Visningstid (timmar),Prenumeranter,Exponeringar,Klickfrekvens för exponeringar (%)
+Totalt,,,,32410,2453.4128,437,699276,1.56
+83iMf1MSRLk,xlwings lite demo - creating a dashboard in excel using python,"Jun 26, 2025",819,1241,52.4167,24,13013,5.24
+rkLzMLhCBiI,Styling streamlit with CSS,"Sep 5, 2024",2628,675,41.7205,16,4607,9.18
+7I6Xv423aGw,Setting up dbt and connection to duckdb from scratch,"Apr 5, 2025",1598,566,54.1869,5,9543,2.37
+0tnq9eLNNWM,[ARCHIVED] DBeaver connect with DuckDB with SQL introduction,"Nov 8, 2024",1379,561,33.707,2,5231,4.97
+EZ3MLmyhw68,Modern data stack project - introduction and pipeline overview,"Apr 20, 2025",455,455,11.9338,9,7282,2.77
+xSAvbH_v1R4,Building a CSV Data API with FastAPI and Pandas,"Aug 6, 2025",2148,449,34.7428,10,9864,2.3
+CGfrmZcfXJE,Modern data stack - automating dlt and dbt pipeline with dagster,"Sep 27, 2025",3001,436,49.6812,8,5884,2.94
+JUOV2Boj52Y,Line chart in Taipy part 1,"May 28, 2025",1118,422,18.9368,4,5396,1.82
+ -PxkR3kCOI0,Taipy introduction,"May 3, 2025",2005,380,38.8317,2,4650,3.12
+ZnDmTGgYMn0,Building a Streamlit Frontend for FastAPI & Scikit Learn Model,"Aug 15, 2025",1191,357,17.0481,6,7515,2.67
+CPuyUvnqEi4,FastAPI and scikit-learn tutorial to create an API to serve a random forest classifier,"Aug 14, 2025",1706,348,23.4258,11,7358,2.27
+b9VMLSXKHwk,Setup duckdb and dbeaver (coding),"Sep 15, 2024",1413,346,26.3417,3,2162,6.66
+MSuMzOnZNno,"Creating a chatbot in Excel to chat with your data using xlwings lite, Python and LLM","Sep 5, 2025",1820,324,15.2758,5,5000,3.62
+Sy0GxQ4xlgU,Modern data stack project - using dlt to extract and load data from API into duckdb warehouse,"Apr 22, 2025",1361,313,22.4423,2,8801,1.89
+4uJSbC9AVxk,Building a pipeline to stream cryptocurrency data using Kafka and sinking to postgres SQL,"Feb 5, 2025",2352,309,43.2056,4,10634,0.78
+pqRebLFbmwI,"Setting up Apache Kafka using docker compose, then exploring broker and control center","Jan 25, 2025",514,303,11.2006,1,4705,3.19
+hF97XR-Um2s,Python fundamemtals part 1 (coding),"Dec 20, 2024",3111,291,39.7214,4,4642,0.71
+qktFiYMYXbQ,data load tool (dlt) to load CSV file into DuckDB and exploring the data with DuckDB local UI,"Mar 30, 2025",1450,289,21.5628,2,9563,1.35
+oqjH_YUAVDE,Using Pydantic to structure output from Gemini,"Aug 29, 2025",1421,275,16.4955,1,10989,1.41
+i454nHjdMAc,Setup snowflake and snowsql,"Aug 17, 2024",1624,274,29.4742,1,1486,5.25
+cjNKTv8xsQA,Modern data stack project - dbt setup and creating sources,"Apr 20, 2025",1935,255,22.3061,1,4489,1.94
+Hf1ryX3dryg,Kafka streaming cryptocurrency data and serving a live dashboard in streamlit,"Feb 8, 2025",1075,252,16.0757,4,4175,1.44
+eDcbZDGk2W0,Exploring public transport data from trafiklab API,"Jan 6, 2025",2191,250,20.1322,1,5817,1.34
+_Xw4Uta7r_k,Deploy React App to Azure Static Web App,"Sep 20, 2025",781,249,13.9193,2,2455,5.5
+eb95PyK1GJI,"Modern data stack   dockerize dagster, dlt, dbt, duckdb, streamlit data pipeline","Oct 10, 2025",1556,246,12.7429,3,5524,2.5
+Jqp9Gedl0Cc,Taipy dashboard for vocational education applications part1 - EDA,"May 3, 2025",1034,244,12.5173,2,4551,2.24
+h4DnfiW7Ums,Modern data stack project - dbt dimensions and facts,"Apr 20, 2025",1385,240,16.6134,3,12114,1
+ZkCupZRICUU,Taipy dashboard for vocational education applications part 3 - Refactoring and packaging dashboard,"May 11, 2025",2182,237,17.1503,0,2937,4.46
+aYGcrrFshrs,Modern data stack using dbt modeling with Snowflake,"Sep 7, 2025",2930,237,31.9322,2,1699,4.06
+x7nBYaWXHBk,Python fundamentals part 2 (coding),"Dec 25, 2024",3376,232,32.3486,3,8840,0.51
+z3ihUI6N-tg,[ARCHIVED] Introduction to SQL and duckdb (theory),"Nov 7, 2024",795,232,12.509,9,1894,2.01
+KOn6XRDrT8s,Setup dlt part 3 - loading csv file into snowflake (coding),"Aug 18, 2024",1000,231,13.0192,1,789,10.77
+YKNCZ_AM-R0,Introduction to FastAPI  Building APIs with Python,"Sep 6, 2025",725,228,6.8661,1,13260,1.11
+luhgl9CpuQU,[ARCHIVED] Querying data in DuckDB SQL (coding),"Nov 8, 2024",1387,224,22.0781,0,2367,2.7
+FumJcNrip9A,"Modern data stack   dagster to orchestrate dlt, dbt and duckdb data pipeline","Oct 9, 2025",1017,218,11.7416,0,4676,2.03
+mneNRn0H6Ho,[ARCHIVED] DuckDB CLI to ingest data from csv file,"Nov 8, 2024",779,217,14.7573,1,1325,2.49
+xJFyZCtdXaQ,Dimensional modeling in dbdiagram hospital example (coding),"Aug 24, 2024",792,215,10.3186,0,1477,7.52
+svD4gk40pcg,Building an AI Chatbot with PydanticAI and Taipy Frontend - A Step by Step Guide,"Aug 8, 2025",1597,209,14.5917,4,7930,1.56
+76l729ER8qU,Pandas reading from excel file and processing it,"Dec 30, 2024",2155,208,32.5097,1,6933,0.56
+UN0AfYZKD1o,Modern data stack project - dashboard with streamlit to connect duckdb,"Jun 10, 2025",1805,201,13.9008,0,3334,2.67
+fo_C6MSmtkQ,Postgresql using docker compose and exploring some data inside container,"Feb 1, 2025",1622,197,22.6781,0,7572,0.55
+L7xfKPQLgTA,Deploy dockerized react web app into azure app service via azure container registry,"Jul 12, 2025",927,196,13.2629,3,2648,3.89
+060WlhMJ5Ys,Streamlit dashboard crash course,"Feb 8, 2025",1751,195,22.7483,0,4253,1.29
+3zrs7CBPjaE,Modern data stack - Using data load tool (dlt) to ingest CSV data into Snowflake,"Aug 30, 2025",2218,194,20.8475,2,2615,2.41
+ --I5p8mJCEY,Pandas series and dataframe (coding),"Dec 27, 2024",1621,193,26.2623,2,4376,0.71
+hheq0d0NRj8,Building a CRUD API Using FastAPI in Python,"Sep 6, 2025",2040,192,16.0876,2,4536,2.38
+FBichC1YtSg,Digitala arbetsplats intro,,286,189,6.3497,1,72,2.78
+u4map_3j9LA,Setup dlt part 1 (coding),"Aug 18, 2024",476,182,10.0087,0,937,7.36
+4Ex0DCqNHDg,Taipy dashboard for vocational education applications part2 - building the dashboard,"May 4, 2025",2329,180,20.4471,2,3705,2.19
+v8HbNx4YrA8,Input and output in python,"Jun 12, 2025",753,173,14.9915,1,1640,1.46
+zCgVu9j2fMc,CI/CD of a streamlit app to streamlit cloud,"Jan 29, 2025",741,171,6.8956,1,5561,0.74
+Ds1S725l_EE,Setting up docker on windows,"Jan 19, 2025",659,164,9.739,0,3711,0.67
+HB6Y8eMQ8w0,Extract load api part 1 - exploring jobtech API for job ads (coding),"Aug 24, 2024",954,163,13.961,1,598,4.18
+NX19Yz2_S0Y,Setup and getting started with git and github,"Jun 12, 2025",1026,162,18.6855,0,4079,0.76
+eVBC8DiR8N0,Navigating Azure Architecture: A Beginner's Guide,"Jul 13, 2025",521,161,6.2207,1,5141,0.86
+x9AyMOVAtV4,Data warehouse intro,"Aug 17, 2024",885,161,7.8702,5,669,2.24
+5vOYVLmj9tg,Containerize a python Taipy application and deploy it to Azure web app,"Jul 4, 2025",1450,160,10.5292,2,8246,0.67
+IUMdhf_vsMs,Setup dbt (coding),"Aug 26, 2024",1329,158,18.6536,1,524,3.05
+m4zrj5ZUWs4,Data load tool to extract and load data (theory),"Aug 17, 2024",313,156,6.2194,0,764,3.8
+zm79cZboFi4,Python fundamentals part 3 - OOP (coding),"Dec 26, 2024",1489,156,15.3711,1,7902,0.51
+NZlaNhDUqOE,Snowflake role hierarchy (theory),"Aug 17, 2024",440,155,8.2816,2,1161,6.98
+5fur2ZTonDQ,Modern data stack   using dlt to extract and load api data to snowflake,"Aug 31, 2025",2172,153,16.0522,2,1526,2.82
+dteU94PSNoQ,Installing python on windows,"Feb 2, 2025",413,152,6.7481,0,1672,0.6
+3K85fZ0Ak9o,Streamlit dashboard job ads (coding),"Sep 2, 2024",2419,149,20.6633,0,430,3.26
+WNdsLWiyJ-I,Building a skeleton and packaging a fullstack ML/data project,"Sep 15, 2025",1656,148,11.5048,3,4827,1.41
+OUYjIyc9860,python introduction - motivation and roadmap,"Jun 13, 2025",376,144,5.289,2,1853,1.3
+2vvHu06wM4g,Chatbot using eden AI API part 1,"Sep 8, 2024",1247,143,6.2443,2,786,10.05
+cPO_NjMBecc,Producer and consumer in Kafka locally using quixstreams,"Jan 26, 2025",1966,140,20.5679,0,1599,2.25
+mSU5vZTbS9s,Matplotlib annotate anywhere with arrows and labels,"Apr 13, 2025",2081,140,13.1588,0,2197,1.32
+6NkioZTYDlA,Modern data stack   deploy dockerized data pipeline to Azure part 1,"Oct 11, 2025",1974,138,13.0961,2,2759,2.03
+Ei66WLCs0aw,Understanding the Theory and Intuition Behind Large Language Models,"Jul 31, 2025",922,138,4.3394,3,13115,0.6
+J_YfAxcO1EE,Github actions with Python continuous integration and pre-commit,"Jan 22, 2025",1574,137,10.8681,0,7574,0.48
+SoQuhecC3Z4,[ARCHIVED] First navigation of DuckDB (theory),"Nov 7, 2024",358,137,5.9509,1,975,3.18
+trBRcwSO7_8,[ARCHIVED] Generating synthetic data using DuckDB SQL (coding),"Nov 14, 2024",1316,135,16.0785,0,2689,1.15
+MAMW3cUWQrs,Role based access control (RBAC) in snowflake,"Aug 29, 2025",1904,133,12.5128,1,2405,1.79
+yeRYOJyi7_c,Pydantic basics for data validation,"Jun 25, 2025",1104,132,10.3024,1,8298,0.67
+g-wRTFf6zuM,Introduction to cloud computing with Azure,"Jul 12, 2025",1001,131,11.5067,4,4730,0.72
+71RFbcWXh7Y,SQL injection example with postgres and python and how to protect,"Mar 23, 2025",1453,130,5.8802,1,6412,0.62
+0CgPv6UctuU,Preboardingkurs introduktion,,895,129,13.8905,7,2,50
+qdTSora1Nbs,[ARCHIVED] Dbeaver navigation (theory),"Nov 7, 2024",488,128,6.0887,0,780,1.79
+V2CEc9tCHxM,Setup roles and user in snowflake for dbt modeling job ads (coding),"Aug 26, 2024",1028,126,11.1794,0,436,2.98
+dfFkIG0TagM,Joins in SQL DuckDB to combine rows between several tables (coding),"Nov 23, 2024",1488,125,12.6252,0,4605,0.96
+eohHTUU0RII,dlt to extract and load from api to snowflake (theory),"Aug 17, 2024",107,125,1.8084,0,496,8.87
+f4IK-8EiXxA,Pandas dealing with missing data,"Jan 2, 2025",2031,124,21.8259,0,3901,0.46
+Y5IxtZ5EARg,An introduction to Apache Kafka and event streaming,"Jan 26, 2025",491,123,5.1058,0,1185,1.27
+ZMNRnMhWSgY,Logical and physical data modeling for rdbms,"Mar 9, 2025",915,123,10.0213,0,6067,0.54
+3brJ9j5B_A8,Principles of data storytelling and applied with matplotlib,"Feb 28, 2025",2424,122,16.0671,1,4799,0.94
+SNe4yH8DzqQ,[ARCHIVED] Querying data in DuckDB with SELECT statements (theory),"Nov 7, 2024",526,122,7.4104,0,844,1.66
+0w-V8hGgD-A,[ARCHIVED] FIltering data in DuckDB (coding),"Nov 9, 2024",1689,120,13.7843,1,3488,0.89
+lAckpoLox5g,Docker fundamentals coding part,"Jan 19, 2025",1420,119,15.302,0,2902,0.9
+-9y2Jw-ETZA,[ARCHIVED] Course structure for modern SQL with DuckDB,"Nov 8, 2024",490,117,5.3925,0,800,2.88
+3_ZZ80Symjc,Packaging a python project so that you can pip install it,"Jan 12, 2025",1929,116,12.6113,0,3802,0.87
+BQhLyP6sqC8,Load csv file into duckdb,"Sep 15, 2024",639,116,3.7147,0,279,7.17
+gwDt5IxPfZg,Deploy a FastAPI API That Serves CSV File Into Azure Functions Serverless Computing Tutorial,"Aug 11, 2025",1340,116,7.1097,1,2658,2.18
+S8k4ta6PRa0,Lärplattform del 1,,243,115,3.8587,0,73,1.37
+KLjq2_Am8xM,Terraform to deploy Taipy dashboard to Azure web apps,"Jul 4, 2025",1050,114,5.3144,0,3496,1.52
+VPzzKysvLC8,Introduction to Linear Regression: Theory and Intuition,"Jul 22, 2025",901,114,6.3721,2,3683,1.36
+Ll5-jWDMQ7o,Linear Regression in Python: Hands-on Beginner's Guide,"Jul 23, 2025",1400,113,11.4209,1,3789,1.06
+jVyI5SpH2x8,Filsystem i windows,,723,113,9.0413,0,66,6.06
+q2zMm1eZhRI,Introduction to data modeling,"Mar 1, 2025",651,113,6.1783,0,2566,1.68
+E9QmOxzdh6g,Ingest csv file into duckdb,"Mar 21, 2025",537,112,5.6064,0,4242,0.64
+xWu_ThphnSk,Plotly express fundamentals,"Apr 25, 2025",1797,112,12.3441,0,4991,1.06
+NdM4iYw37B8,Setup dlt part 2 - setup users and roles (coding),"Aug 18, 2024",667,111,6.8796,0,524,6.11
+aiYLvu6h0dM,dbt transformations of job ads part 1 (coding),"Aug 26, 2024",2212,111,13.8004,0,407,4.42
+7DUrBs5q6kM,[ARCHIVED] Working with strings in SQL and DuckDB (coding),"Nov 14, 2024",1502,110,11.6597,0,3763,0.64
+nA4Hs08EOTI,Implement logical data model in lucidcharts and physical data model in dbdiagram,"Mar 9, 2025",771,110,5.5268,2,2744,1.17
+1y8o9UOvcNg,Connecting python to local mongodb with mongo-express UI with docker compose,"Mar 21, 2025",2113,109,10.7795,2,4188,0.93
+AZNrn9ihZkw,Random forest for classification hands on tutorial,"Aug 5, 2025",683,109,5.5205,1,2990,2.07
+46-Xwx0NhlY,Intro to what is dbt,"Apr 5, 2025",440,108,4.2284,2,2544,1.73
+9Ez_sb4wyxc,if statement in python,"Jun 12, 2025",1266,107,13.4582,0,1358,1.84
+CrFZVCrRlgU,1 AI för inlärning,,1755,107,15.6672,0,31,9.68
+4TgwLKhLoCc,Hands on beginners guide to Azure portal,"Aug 12, 2025",720,105,6.496,2,1721,1.74
+Zwfguhx8Ufc,Understanding Azure: Scaling Strategies and Pricing Models,"Jul 13, 2025",803,105,6.6362,1,4149,0.77
+bbJDBTAMtm8,git and github theory the very basics,"Jun 13, 2025",356,104,4.8517,1,1592,0.69
+fx0jIFbz8YM,Streamlit frontend for PydanticAI chatbot,"Aug 18, 2025",1165,104,4.8964,2,4673,1.39
+hps8P9fmfCk,[ARCHIVED] Grouping data in DuckDB (coding),"Nov 14, 2024",1385,104,11.14,1,3658,0.6
+7DCFHwe3wI8,Pydantic with Gemini to structure responses in a robust way,"Sep 15, 2025",1185,103,3.4492,2,6653,0.9
+ao9mdi3hj7g,python course structure,"Jun 18, 2025",793,103,8.2907,1,2020,0.74
+IXEC4rsINj0,Joins in SQL DuckDB to combine rows between several tables,"Nov 23, 2024",444,102,4.9002,0,778,2.7
+Lkr6yRUCHbA,What to do when your python don't work on windows,"Feb 2, 2025",409,102,3.8663,0,1905,0.52
+k260IXXxyDE,Snowsight navigation,"Aug 17, 2024",430,102,6.0795,0,750,1.87
+sFVInrS7rcA,Fysiska arbetsplatsen,,995,102,12.2514,0,74,6.76
+dzI71WhlOpU,Data warehouse lifecycle course structure part 1,"Aug 18, 2024",498,101,4.6722,0,621,3.54
+jIRAEdnNin0,Introduction to python and learning roadmap (theory),"Dec 22, 2024",694,100,4.0494,0,2623,1.3
+5HfMStIvp10,[ARCHIVED] CRUD operations in DuckDB SQL,"Nov 14, 2024",1633,99,14.873,0,2118,0.99
+fZYi9gPWQcw,Matplotlib fundamentals - bar chart and line chart from dataframe,"Apr 12, 2025",1744,98,16.1686,0,1713,1.4
+8mTl3wUrBME,Using xlwings lite to create a time planner  for consultiing time part 1 - track holidays,"Aug 21, 2025",1532,97,5.3187,1,2921,2.16
+_jCu5YtTg0s,Data storytelling with matplotlib using mplstyle to reuse styling,"Apr 24, 2025",2578,97,12.9473,0,1675,1.79
+d-aejWLUDOw,Modern data stack   deploy dockerized BI dashboard into Azure web app - part 2,"Oct 13, 2025",918,97,5.0602,1,646,3.25
+t1dSZNCBIhQ,2. Olika AI-verktyg för inlärning,,1022,97,9.5014,0,12,25
+t6Fx8Q_sS2k,Data storytelling on bar chart using matplotlib,"Apr 21, 2025",1827,97,6.2707,2,3571,0.73
+UE8wAHXRuJw,[ARCHIVED] Set operations in DuckDB part 1,"Nov 21, 2024",1079,96,9.3101,0,2550,0.51
+mIERG2Rck48,Git and github in team - part 1 theory,"Feb 7, 2025",706,96,5.1363,0,4304,0.56
+wVneS4Akh9I,Faktorer och nollställen Matte 3C,"Sep 16, 2019",314,96,3.0941,0,1457,3.91
+g0mXYwa2mCI,Docker compose and volumes theory,"Jan 19, 2025",451,95,3.8021,1,5282,0.66
+0Oghy4yaprM,OOP properties and inheritance in Python,"Jun 19, 2025",1222,94,12.025,0,2246,0.71
+bn6Mcq2GmWE,Using plotly graph objects to create spider chart and choropleth map of Sweden,"Apr 27, 2025",3153,94,14.7764,1,1048,2.58
+t4Uqh2MpIsQ,0 AI modul intro,,173,94,2.6283,1,34,8.82
+cyHgd3X972o,Inlärningssystemet intro,,634,92,7.9658,0,61,3.28
+ASMWOJFJyQI,Understanding Overfitting and Underfitting through Polynomial Regression: Hands-On Tutorial,"Jul 24, 2025",1417,91,4.2307,4,11468,0.52
+3R9w1hbh1PY,Docker compose intro coding,"Jan 20, 2025",417,90,4.1099,1,6331,0.3
+woVKB99-KFg,[ARCHIVED] Course structure for modern SQL with DuckDB part 2 - github repository,"Nov 8, 2024",352,90,3.842,2,1389,1.66
+W_kr4kHJ-MI,strings in python,"Jun 13, 2025",970,89,8.2641,0,2301,0.78
+fhwdKmp_7S8,Virtual warehouse in snowflake (coding),"Aug 17, 2024",400,88,4.0719,0,437,3.2
+rrsYbcmqbFs,Hands On Guide to XGBoost with Bayesian Optimization,"Aug 5, 2025",991,88,3.3044,1,2098,2.14
+1ZbENwngpKA,Different types of data and databases,"Mar 1, 2025",585,87,6.5845,1,1545,1.04
+IZSMXad4xTY,Hands On KMeans Clustering Tutorial with Python & Scikit Learn,"Aug 13, 2025",1326,87,6.0356,0,5338,0.96
+W0FmFvB41nk,Data storytelling - turning exploratory data analysis into explanatory,"Apr 10, 2025",930,87,6.4896,2,1523,2.36
+oM0MKB-TAKI,[ARCHIVED] CRUD operations in DuckDB (theory),"Nov 7, 2024",324,87,3.9307,0,1195,1
+xhKESecuVz0,[ARCHIVED] Filtering data using DuckDB (theory),"Nov 7, 2024",362,87,4.4917,0,953,2.1
+8BIT7RuZ0fk,Plotly express for interactive charting,"Feb 20, 2025",1532,86,9.688,0,5939,0.42
+YZxZt7plGyI,Data processing course structure (theory),"Dec 24, 2024",555,86,3.3635,1,4258,0.52
+mMJKWOg3nS4,What is dbt (theory),"Aug 26, 2024",427,86,4.7546,1,411,2.92
+a4C5KIqj55M,Data platform course introduction,"Jan 4, 2025",536,85,3.8731,1,6192,0.42
+gCDTvdt_wgs,OOP encapsulation in Python,"Jun 18, 2025",862,85,9.8039,1,3858,0.54
+iEuB7TyarlQ,Turn business requirements into conceptual ER model using lucidcharts,"Mar 2, 2025",1089,85,5.8474,0,3153,0.98
+pV7myOaTRZ4,Conceptual ERD to capture business requirements and business rules,"Mar 1, 2025",1272,84,10.4943,0,2536,0.75
+GLHNqVYufsw,Normalisation in data modeling RDBMS,"Mar 15, 2025",1279,83,8.2544,1,2328,0.95
+KkmrVSbMap8,Snowflake introduction (theory),"Aug 17, 2024",796,82,7.0784,0,443,2.71
+RC6ooyXw6RE,OOP fundamentals in python,"Jun 18, 2025",932,82,9.3123,2,2761,0.72
+zEIntpFCv2c,Bokmärken och flikar,,376,82,4.5302,0,62,4.84
+BcDfBkY6hXc,SQL repetition in snowflake using snowflake marketplace (coding),"Aug 17, 2024",1855,81,12.0981,1,502,2.39
+CCqQF7LZVqI,Course structure for data platforms,"Jan 4, 2025",547,81,3.2064,1,4632,0.39
+TrLrobmqzKQ,Roles and privileges in snowflake (coding),"Aug 17, 2024",1645,81,9.5029,0,587,3.58
+PEmcikWd93o,Extract load API part 3 - dlt to load from jobtech (coding),"Aug 24, 2024",1417,79,9.2955,0,460,5
+GRGPnSTCTFI,dbt testing job ads data (coding),"Aug 30, 2024",1252,78,9.0399,0,344,2.62
+LfOnwczge14,[ARCHIVED] Generating synthetic data using DuckDB (theory),"Nov 7, 2024",307,78,3.3205,1,1148,1.48
+Bjr7FaZj52w,while statement in python,"Jun 12, 2025",725,77,6.7351,0,1230,2.03
+WzIc1UWzaXc,[ARCHIVED] Set operations in DuckDB (theory),"Nov 23, 2024",458,77,5.0554,1,1029,2.14
+u5hU0KTvNnc,Kafkas publish-subscribe model with producer and consumer,"Jan 26, 2025",380,77,3.457,0,3988,0.73
+6fjd0i_n35c,A gentle introduction to AI,"Jun 26, 2025",1526,76,6.183,0,1895,1.64
+lwK1J3W04Bw,Connecting duckdb with Python part 1 (coding),"Sep 16, 2024",853,76,5.8366,0,408,3.43
+NY6C8_xCi1w,File handling in python,"Jun 16, 2025",1152,75,7.9349,0,3790,0.55
+mJm755odg5U,Multimodalt och socialt lärande,,684,75,5.9854,0,58,5.17
+qV6CFJ5i6k4,Gå från överblick till detaljer,,1089,75,10.0141,0,59,8.47
+KuJso02epfM,dictionary in python,"Jun 16, 2025",818,74,5.5738,0,1526,1.44
+-6qhBr8NE1U,SQL repetition in duckdb - EDA on youtube dataset (coding),"Sep 15, 2024",1451,73,5.1294,0,247,2.43
+YGXj6lRGds8,Planera din produktivitet,,1238,73,11.3032,1,60,1.67
+D_JY1dkljSs,Data warehouse lifecycle course structure part 2 - github structure,"Aug 18, 2024",473,72,2.7797,0,495,4.04
+E88-G-uDxnQ,Dimensional modeling on job ads data (coding),"Aug 24, 2024",1290,72,7.6939,1,503,3.58
+K6Wb0Wu-qsA,[ARCHIVED] Set operations in DuckDB part 2,"Nov 22, 2024",1276,72,9.0682,2,1675,0.48
+_h-LZQLGhNM,Terraform to create storage container and upload local files to blob storage in Azure,"Oct 14, 2025",1675,70,7.1898,0,1190,1.76
+sDpT9I43Crc,LIA series 1 - preboarding and onboarding students,"Oct 19, 2024",822,70,2.0326,0,726,1.93
+Q3AOfQXkxWM,Intro to data visualization course,"Apr 12, 2025",681,69,4.8796,1,1542,1.43
+Av6wjWjkMAw,Random Forest & XGBoost  Theory and Intuition,"Aug 4, 2025",452,68,3.1869,0,1751,1.77
+HMvYN3Vdvao,dbt transformations of job ads part 2 (coding),"Aug 29, 2024",2095,68,6.7794,0,399,1.5
+C7ysqi_tZio,Dimensional modeling with star schema (theory),"Aug 17, 2024",810,67,6.1781,0,358,3.07
+4JXokxjufKY,lists in python,"Jun 13, 2025",628,65,5.1251,0,788,0.76
+EfN1PrpUPyM,"Extract load API part 2 - roles, user and database setup (coding)","Aug 24, 2024",339,65,3.0619,0,496,3.43
+vsVP_If9gag,error handling in python,"Jun 16, 2025",733,65,6.0892,0,2096,0.52
+0tws8vOwKKQ,dbt documentation of job ads (coding),"Sep 2, 2024",906,64,5.6324,0,424,1.89
+qjX5OAlxlXk,[ARCHIVED] Commont table expressions (CTE) in DuckDB,"Nov 29, 2024",580,64,3.8273,0,1126,2.13
+39zXa7lVXK8,functions in python,"Jun 17, 2025",1760,63,11.4814,0,1453,0.28
+5jdBxUMGGxg,Modern data stack project - marts layer,"Jun 3, 2025",1010,63,2.5831,0,2487,1.41
+PP2Il9gSjtw,Logistic regression hands on tutorial with scikit learn,"Jul 30, 2025",1395,63,5.1666,0,1386,1.37
+PbkhYu2Vqoo,Hands on KNN using Scikit-learn,"Aug 2, 2025",1341,63,4.99,0,1670,0.9
+IksAi_tweL4,Terraform setup for Azure,"Oct 14, 2025",1231,62,4.9153,0,2147,1.21
+7uVVS5WbD4E,for statement in python,"Jun 13, 2025",873,61,7.1265,0,1668,0.9
+TNX1LuV2Ljs,docker theory intro,"Jan 19, 2025",311,60,2.6182,0,1162,1.12
+jwYyLNKikI8,Azure short course  - course structure,"Sep 18, 2025",544,60,1.8953,0,1763,1.25
+FHRplWe0Lrk,[ARCHIVED] Grouping data in DuckDB SQL (theory),"Nov 15, 2024",259,58,2.3152,1,1273,1.49
+G1a4BYvhkA4,OOP theoretical dive,"Jun 25, 2025",1922,58,2.5004,1,4514,0.8
+OgfVQVmzGxU,Data storytelling using matplotlib on line chart,"Apr 21, 2025",1531,57,6.542,2,3470,0.58
+Y_-GdedFQJY,Documentation with type hinting and docstrings in Python,"Jun 19, 2025",787,57,4.8004,2,3946,0.38
+goe3axFJtO0,tuples in python,"Jun 13, 2025",449,57,3.6251,0,963,1.25
+7iWTGOGtXBk,Common table expressions in DuckDB (coding),"Nov 29, 2024",918,54,3.2148,0,1013,1.48
+iWxcl63Uq2Q,[ARCHIVED] Working with string and regexp in DuckDB (theory),"Nov 15, 2024",395,54,2.9026,0,873,0.69
+d1UKrIrEMnw,Line chart in Taipy part 2 - detailed customizations for storytelling,"May 28, 2025",1565,53,5.0779,1,1066,2.44
+9KrueAwOC1Q,Filsystemet för Mac,,802,52,3.9161,0,72,2.78
+EV05oEaMyMg,Djupt lärande,,796,52,5.9464,0,36,5.56
+qptShAQvNkU,Taipy bar chart with detailed customisations,"Jun 3, 2025",1532,52,3.7423,0,1834,1.42
+z0G3KoDryww,dbt transformations of job ads part 3 (coding),"Aug 29, 2024",639,52,2.8861,0,359,1.95
+PnSL_CPWKxI,Developing in dbt (theory),"Aug 17, 2024",353,51,2.1045,0,412,0.97
+W6MJiAfn0kI,polymorphism,"Jun 23, 2025",2448,50,10.1675,1,1424,0.98
+XmNUuzY9OHQ,Data marts to serve the data from a data warehouse (theory),"Aug 17, 2024",188,50,1.4559,0,339,4.42
+tpTe9WiK0xU,Different keys in RDBMS,"Mar 9, 2025",927,50,3.7651,0,1970,0.71
+cJZrhxz4IP4,Connecting duckdb with Python part 2 (coding),"Sep 16, 2024",929,48,5.2303,0,430,3.49
+l7RCoO-G_5A,Course repetition of SQL using DuckDB part 1,"Dec 6, 2024",1598,47,3.2988,0,2205,0.68
+ZhjY9nUOs-k,KNN theory and intuition,"Jul 30, 2025",540,46,1.9376,1,5515,0.34
+OGEh8wlx-UE,Hands-On Regularization with Scikit-learn,"Jul 27, 2025",1882,45,5.4528,1,1891,0.79
+EVw6X1rghAc,Artificial Neural Networks ANN   theory and intuition,"Aug 7, 2025",1188,44,1.2298,1,7373,0.2
+j8bOjKMxC_Q,matplotlib basics,"Jun 17, 2025",785,44,2.7106,2,1433,1.19
+w0ClMn8IDQg,sets in python,"Jun 13, 2025",556,44,3.8139,0,1894,0.48
+gfzlxJHfFtA,dlt to extract and load data from OLTP to a data warehouse (theory),"Aug 17, 2024",277,43,1.4136,0,316,3.8
+5jPxg5OQSfg,Introduction to Logistic Regression  Theory,"Jul 29, 2025",842,41,2.8592,0,4395,0.32
+MbzCTgxvadw,Understanding Overfitting and Underfitting in Machine Learning,"Jul 24, 2025",618,38,1.1936,2,3555,0.56
+XLP_xOaqFVY,Using xlwings lite to create a time planner  for consultiing time part 2 - compute the hours,"Aug 25, 2025",1482,38,2.7427,0,2965,0.78
+BwfbC2a019Y,Understanding Decision Trees  Classification and Regression Explained,"Aug 3, 2025",617,36,2.2591,0,1355,0.44
+qZ1Ib5H9tJY,OOP streamlit dashboard - part 1 - EDA on the dataset (coding),"Sep 8, 2024",710,36,0.9112,0,340,5.88
+JFNTmYiI7PE,Connecting duckdb with Python part 3 (coding),"Sep 16, 2024",1110,35,3.647,0,365,1.64
+Ko38vVVauBg,Course repetition of SQL using DuckDB part2,"Dec 6, 2024",1129,35,1.9054,0,1089,1.29
+cP1qqaqiXC8,Unit testing with pytest,"Jun 24, 2025",1064,34,2.3963,0,1961,0.71
+hocYlT4ixsU,Streamlit dashboard olympic games data OOP approach (coding),"Sep 8, 2024",2313,32,2.2442,0,267,4.12
+szKVpybz2Gg,python summary part1 (coding),"Aug 10, 2024",2817,31,2.8579,0,196,4.08
+JFL0PDl7Egc,Grid Search and Pipelines for Hyperparameter Tuning,"Aug 3, 2025",1351,29,1.7308,0,4119,0.34
+fR3TG3yZZSY,Decision Trees with Scikit Learn  Hands On Coding Session,"Aug 4, 2025",1386,28,1.5492,2,1885,1.11
+gzAklBTtxBk,Data driven youtuber part 1 (coding),"Sep 20, 2024",561,19,0.6423,0,280,2.5
+uezbqIvvQBk,Understanding K Means Clustering  An Intuitive Guide to Unsupervised Learning,"Aug 7, 2025",538,19,0.4275,0,1880,0.69
+bzTptHrZOKk,python conventions,"Jun 18, 2025",701,16,0.8561,0,791,1.14
+lfxUmiaNgXM,Enkla andragradsekvationer Ma2,"Feb 14, 2020",221,15,0.3944,0,128,0
+Ys1zPifbuyM,Data storytelling for explanatory data analysis using matplotlib,"Aug 18, 2024",2166,14,1.6681,0,249,2.81
+f_BBLXUytaU,Streamlit intro for frontend,"Aug 31, 2024",2139,14,0.4083,0,212,1.42
+IqV75ndo-b4,Kvadreringsregler och konjugatregler härledningar,"Jun 9, 2019",468,13,0.2894,0,45,17.78
+fh5rZY4AVOI,python summary part4 (coding),"Aug 17, 2024",1837,13,0.9651,0,152,1.97
+sUOoGio7qd8,Stocks API data processing,"Mar 19, 2024",2531,13,0.6093,0,134,7.46
+1QPsShNoX2k,Understanding Regularization: Balancing Bias and Variance,"Jul 24, 2025",636,12,0.6613,0,855,0.82
+Y1_P4ZMGLGo,python summary part3 (coding),"Aug 17, 2024",2038,11,1.218,0,147,0.68
+fNOUYJzxNTg,python summary part 5,"Aug 18, 2024",1854,10,1.1446,0,155,1.29
+nBFPUAAWP4A,Chatbot using eden AI API and streamlit frontend part 2,"Sep 8, 2024",1108,9,0.0901,0,248,1.61
+twlOySku1PM,python summary part2 (coding),"Aug 17, 2024",1513,9,0.5989,0,160,1.25
+EWd2x3d_7hg,Data driven youtuber part 5 (coding),"Sep 20, 2024",1124,8,0.1202,0,258,1.55
+4QyyCbLBAWk,python summary part6,"Aug 18, 2024",1667,7,0.9601,0,161,0.62
+WCMH4e-LoRA,Gränsvärden matte 3C,"Sep 22, 2019",424,7,0.0845,0,172,2.91
+rt9HUsJSbbY,Data processing repetition,"Aug 18, 2024",889,6,0.1485,0,163,0
+39RfkE5M6QQ,Data driven youtuber part 2 (coding),"Sep 20, 2024",910,4,0.0223,0,251,0.8
+7Dqqbo06j5Q,Andragradsfunktionens graf,"Feb 14, 2020",231,4,0.0663,0,128,2.34
+2xqlDLCK6CQ,PQ formeln,"Feb 14, 2020",278,3,0.0113,0,121,0.83
+ie87SBfco9A,Data driven youtuber part 3 (coding),"Sep 20, 2024",1064,3,0.0182,0,244,0.41
+GOSbxHuOs8M,Tillämpningar andragradsekvationer,"Feb 14, 2020",211,2,0.0081,0,126,0.79
+jz0kthMmsCg,Derivera exponentialfunktion Ma3C,"Nov 8, 2019",260,2,0.0014,0,117,0.85
+rFlmpvuORB4,Andragradsfunktion   algebra,"Feb 14, 2020",396,2,0.004,0,125,0.8
+eS8Ffveg6kE,Data driven youtuber part 4 (coding),"Sep 20, 2024",524,1,0.0024,0,249,0
