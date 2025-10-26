@@ -41,7 +41,16 @@ brew install duckdb
 
 Click direct download and unzip so you get the .exe file. Copy the .exe file and go to your programs folder, create a new folder called duckdb and paste the .exe file there. Then add the path to your environment variables so that you can run duckdb from anywhere in the terminal.
 
+<img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/program_files.png?raw=true" width=300/>
+
 To add environment variable, you should go into system properties &gt; advanced &gt; environment variables &gt; under system variables find path &gt; edit &gt; new &gt; add the path to the duckdb folder you created &gt; ok &gt; ok &gt; ok.
+
+<img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/search_environment_variable.png?raw=true" width=300/>
+
+<img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/edit_environment_path.png?raw=true" width=300/>
+
+<img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/duckdb_path.png?raw=true" width=300/>
+
 
 </details>
 
