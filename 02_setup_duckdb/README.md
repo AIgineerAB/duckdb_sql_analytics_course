@@ -1,17 +1,10 @@
 # Setup duckdb
 
-## NOT FINISHED YET
-
-Watch this video on how to setup duckdb.
-
-
-
-
 **part 1 - theory**
 
-<!-- <a href="https://youtu.be/kSEVmKFykRQ" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/02_duckdb_navigation_video.png?raw=true" alt="duckdb navigation" width="600">
-</a> -->
+<a href="https://youtu.be/QBQa1yng5jM" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/navigation.png?raw=true" alt="duckdb navigation" width="600">
+</a>
 
 **part 2 - setup and coding**
 
