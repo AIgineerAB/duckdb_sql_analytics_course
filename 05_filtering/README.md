@@ -1,16 +1,17 @@
 # Filtering data
 
-<!-- **part 1 - theory**
+**part 1 - theory**
 
-<a href="https://youtu.be/xhKESecuVz0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/05_filter_data.png?raw=true" alt="filtering data" width="600">
+<a href="https://youtu.be/DkhUGfYepw0" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/filter_data.png?raw=true" alt="filtering data" width="600">
 </a>
 
+<!-- 
 **part 2 - coding**
 
 <a href="https://youtu.be/0w-V8hGgD-A" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/sql/05_a_filter_data.png?raw=true" alt="filtering data" width="600">
-</a> -->
+</a>  -->
 
 
 
