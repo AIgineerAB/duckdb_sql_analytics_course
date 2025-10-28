@@ -1,20 +1,10 @@
-# SQL introduction 
+# SQL introduction
 
 This lecture will cover simple sql commands to create tables, insert, query, update and delete data from duckdb database using SQL. More technically it is CRUD operations however, we'll cover more CRUD operations in later lectures.
 
-<!-- 
-**part 1 - dbeaver navigation theory**
-
-<a href="https://youtu.be/qdTSora1Nbs" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/03_dbeaver_navigation_video.png?raw=true" alt="dbeaver navigation" width="600">
+<a href="https://youtu.be/nNkI6RFh1nA" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/sql_intro.png?raw=true" alt="sql intro and workflow" width="600">
 </a>
-
-**part 2 - setup and coding**
-
-<a href="https://youtu.be/0tnq9eLNNWM" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/03_dbeaver_setup.png?raw=true" alt="dbeaver setup" width="600">
-</a> -->
-
 
 ## Prepare duckdb database file
 
@@ -24,7 +14,7 @@ So lets move on to terminal and create a database called `jokes.duckdb`
 duckdb -ui jokes.duckdb
 ```
 
-and then run a command so that it saves on disk, lets say `desc` command to describe the database. Now there should be a database file called `jokes.duckdb` saved in your file system. 
+and then run a command so that it saves on disk, lets say `desc` command to describe the database. Now there should be a database file called `jokes.duckdb` saved in your file system.
 
 ## SQL scripts
 
@@ -74,7 +64,6 @@ desc jokes.main.jokes;
 
 That was funny, lets get some more jokes
 
-
 ```sql
 INSERT INTO jokes (id, joke_text, rating) VALUES
 (5, 'Why don’t some couples go to the gym? Because some relationships don’t work out.', 8),
@@ -88,6 +77,5 @@ INSERT INTO jokes (id, joke_text, rating) VALUES
 Follow along the video and the other SQL scripts for the rest of the code. Afterwards you should commit and push the database changes to github.
 
 ## Other videos 📹
-
 
 ## Read more 👓
