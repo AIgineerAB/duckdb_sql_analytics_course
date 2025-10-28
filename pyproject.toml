@@ -4,4 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "marimo[sql]>=0.17.2",
+    "uvicorn>=0.38.0",
+]
