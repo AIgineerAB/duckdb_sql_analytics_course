@@ -172,6 +172,7 @@ Some other common meta commands
 Add these to your gitignore to instruct git not to track the .wal file of duckdb
 
 ```bash
+*.duckdb
 *.wal
 ```
 
