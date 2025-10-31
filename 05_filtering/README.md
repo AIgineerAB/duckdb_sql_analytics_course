@@ -6,18 +6,14 @@
   <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/filter_data.png?raw=true" alt="filtering data" width="600">
 </a>
 
-<!-- 
 **part 2 - coding**
 
-<a href="https://youtu.be/0w-V8hGgD-A" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/05_a_filter_data.png?raw=true" alt="filtering data" width="600">
-</a>  -->
+<a href="https://youtu.be/g2apMk9puGo" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/filter_data_tutorial.png?raw=true" alt="filtering data hands on" width="600">
+</a> 
 
 
-
-
-
-We use same data as in last lecture, so just copy the duckdb database file to this folder.
+We use same data as in last lecture
 
 ## Ingest data
 
