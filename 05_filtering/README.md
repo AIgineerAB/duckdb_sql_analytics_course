@@ -19,6 +19,17 @@
 
 We use same data as in last lecture, so just copy the duckdb database file to this folder.
 
+## Ingest data
+
+Create an account on kaggle and download this [dataset on data engineering job salaries](https://www.kaggle.com/datasets/chopper53/data-engineer-salary-in-2024/data).
+
+Use input redirection to read the SQL file and use it as input for duckdb database
+
+```bash
+ duckdb data/salaries.duckdb < sql/ingest_salaries.sql
+```
+
+
 ## Other videos 📹
 
 ## Read more 👓
