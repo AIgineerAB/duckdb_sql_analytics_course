@@ -8,7 +8,7 @@
 
 **Part 2 CRUD operations coding**
 
-<a href="https://youtu.be/5HfMStIvp10" target="_blank">
+<a href="https://youtu.be/aoJ25pVeB2I" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/sql/06_a_crud_operations.png?raw=true" alt="CRUD operations in duckdb sql" width="600">
 </a>
 
