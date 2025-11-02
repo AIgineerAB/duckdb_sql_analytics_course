@@ -1,56 +1,51 @@
-SELECT * FROM main.cleaned_food;
-
--- 10 most searched foods
+-- top 10 most searched food
 SELECT
-	food,
-	SUM(number_searches) AS total_searches
+    food,
+    SUM(number_of_seraches) AS total_searches
 FROM
-	main.cleaned_food
+    cleaned_food
 GROUP BY
-	food
+    food
 ORDER BY
-	total_searches DESC
-LIMIT 10;
+    total_searches DESC
+LIMIT
+    10;
 
 -- total searches by year
--- not stranged that total number of searches increases per year
 SELECT
-	year,
-	SUM(number_searches) total_searches
+    year,
+    SUM(number_of_seraches) AS total_searches
 FROM
-	main.cleaned_food
+    cleaned_food
 GROUP BY
-	year
+    year
 ORDER BY
-	total_searches DESC;
+    year;
 
--- check all years available
-SELECT DISTINCT year FROM main.cleaned_food;
-
-
--- using HAVING clause to filter after group by
+-- total searches by year
+-- filter by total search > 300k
 SELECT
-	YEAR,
-	SUM(number_searches) AS total_searches
+    year,
+    SUM(number_of_seraches) AS total_searches
 FROM
-	main.cleaned_food
+    cleaned_food
 GROUP BY
-	YEAR
+    year
 HAVING
-	total_searches > 300000;
+    total_searches > 300_000
+ORDER BY
+    year;
 
-
-
--- groups by two columns
+-- group by 2 cols
 SELECT
-	YEAR,
-	food,
-	SUM(number_searches) AS total_searches
+    year,
+    food,
+    SUM(number_of_seraches) AS total_searches
 FROM
-	main.cleaned_food
+    cleaned_food
 GROUP BY
-	food,
-	YEAR,
-HAVING
-	food = 'pizza';
-
+    food,
+    year
+HAVING 
+    food IN ('pizza', 'sushi')
+ORDER BY food, year;
