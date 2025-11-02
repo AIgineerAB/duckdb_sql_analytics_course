@@ -1,7 +1,5 @@
 # Group by
 
-## TODO video
-
 Watch this video on how to group data using `GROUP BY` clause.
 
 **Part 1 group by theory**
@@ -12,9 +10,9 @@ Watch this video on how to group data using `GROUP BY` clause.
 
 **Part 2 group by coding**
 
-<!-- <a href="https://www.youtube.com/watch?v=hps8P9fmfCk" target="_blank">
-<img src="https://github.com/kokchun/assets/blob/main/sql/08_a_group_by.png?raw=true" alt="group by clause" width="600">
-</a> -->
+<a href="https://youtu.be/zoEAR7_dLoc" target="_blank">
+<img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/grouping_tutorial.png?raw=true" alt="group by clause coding" width="600">
+</a>
 
 Go into this [link in kaggle to download food searches on google since 2004](https://www.kaggle.com/datasets/GoogleNewsLab/food-searches-on-google-since-2004)
 
