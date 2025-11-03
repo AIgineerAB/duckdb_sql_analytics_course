@@ -1,0 +1,3 @@
+# Enforcing constraints
+
+- CHECK constraint
