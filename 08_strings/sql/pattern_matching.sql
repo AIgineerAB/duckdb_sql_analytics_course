@@ -1,12 +1,7 @@
-/* Like operator 
-   and wildcards */
-
--- ' +' matches 1 or more spaces
-SELECT
-	regexp_replace (trim(description), ' +', ' ', 'g') AS cleaned_description,
-	regexp_replace (trim(lower(example)), ' +', ' ', 'g') AS example,
-FROM
-	staging.sql_glossary;
+/* ===========================
+   Pattern matching with 
+   LIKE operator and wildcards
+   =========================== */
 
 -- filtering rows with LIKE operator
 -- % matches 0 or more characters  
@@ -24,3 +19,16 @@ FROM
 	staging.sql_glossary
 WHERE
 	regexp_matches (LOWER(description), 'select\b')
+
+/* ===========================
+   Pattern matching with 
+   regular expression
+   =========================== */
+
+-- ' +' matches 1 or more spaces
+SELECT
+	regexp_replace (trim(description), ' +', ' ', 'g') AS cleaned_description,
+	regexp_replace (trim(lower(example)), ' +', ' ', 'g') AS example,
+FROM
+	staging.sql_glossary;
+
