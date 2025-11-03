@@ -13,20 +13,17 @@ For this you will be using the following tools:
 
 - duckdb
 - duckdb CLI
+- duckdb ui
 - python
 - bash
 - git
 - github
 
-## TODO: update course structure table
-
-| **Week** | **Content** | **Lectures** | **Exercise** |
-| -------- | ----------- | ------------ | ------------ |
-| 1        |             | 00-04        | 0            |
-| 2        |             | 05-08        | 1            |
-| 3        |             | 09-11        | 2            |
-| 4        |             | 12-14        | 3            |
-| 5        |             | 15-16        |              |
-| 6        |             |              |              |
-
-<!-- OLTP vs OLAP in dimensional modeling -->
+| **Week** | **Content**                                               | **Lectures** | **Exercise** |
+| -------- | --------------------------------------------------------- | ------------ | ------------ |
+| 1        | intro, query, ingest csv, CLI, table, select, filtering   | 00-05        | 0            |
+| 2        | CRUD, conditionals, sorting, functions, grouping, strings | 06-08        | 1            |
+| 3        | temporal data, check, set operations                      | 09-11        | 2            |
+| 4        | joins, subquery, views, CTE                               | 12-15        | 3, lab       |
+| 5        | window functions, python & duckdb                         | 16-19        | lab          |
+| 6        | buffer                                                    |              | lab          |
