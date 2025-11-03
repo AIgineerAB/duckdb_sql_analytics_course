@@ -1,12 +1,13 @@
 # Strings
 
-## TODO video
 
 **Part 1 strings theory**
 
-<!-- <a href="https://youtu.be/iWxcl63Uq2Q" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/09_strings.png?raw=true" alt="strings in duckdb" width="600">
-</a> -->
+<a href="https://youtu.be/F9I7aM4k9ug" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/text_concept.png?raw=true" alt="strings in duckdb" width="600">
+</a>
+
+## TODO video
 
 **Part 2 - strings coding**
 
