@@ -2,16 +2,14 @@
 
 We will use [sakila database from kaggle](https://www.kaggle.com/datasets/atanaskanev/sqlite-sakila-sample-database?resource=download). It's a fictious database representing DVD rental store created originally by MySQL for practicing SQL.  
 
-
-## TODO: videos
-
 **Part 1 - set operations theory**
 
-<!-- <a href="https://youtu.be/WzIc1UWzaXc" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/10_set_operations_theory.png?raw=true" alt="set operations in duckdb" width="600">
-</a> -->
+<a href="https://youtu.be/16uxJNUeSJ8" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/set_theory.png?raw=true" alt="set operations in duckdb" width="600">
+</a>
 
 
+## TODO: videos
 **Part 2 - set operations coding**
 
 <!-- <a href="https://youtu.be/UE8wAHXRuJw" target="_blank">
