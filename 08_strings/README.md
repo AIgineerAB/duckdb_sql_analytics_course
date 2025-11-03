@@ -15,7 +15,7 @@
   <img src="https://github.com/kokchun/assets/blob/main/sql/09_a_strings.png?raw=true" alt="strings in duckdb" width="600">
 </a> -->
 
-In this lecture we'll work with strings and regular expressions. I strongly recommend you to check the documentation for text operations as we won't cover them all in this lecture.
+In this lecture we'll work with string functions, wildcards and regular expression. I strongly recommend you to check the documentation for text operations as we won't cover them all in this lecture.
 
 ## Regex glossary
 
@@ -59,5 +59,7 @@ From duckdb documentation
 - [text functions and operators](https://duckdb.org/docs/sql/functions/char.html)
 
 Other sources
-
+- [string functions](https://www.geeksforgeeks.org/sql/sql-string-functions/)
+- [wildcards](https://www.w3schools.com/sql/sql_wildcards.asp)
+- [regex](https://www.geeksforgeeks.org/sql/regular-expressions-in-sql/)
 - [regex cheat sheet](https://www.rexegg.com/regex-quickstart.php)
