@@ -1,3 +1,6 @@
+/* Like operator 
+   and wildcards */
+
 -- ' +' matches 1 or more spaces
 SELECT
 	regexp_replace (trim(description), ' +', ' ', 'g') AS cleaned_description,
