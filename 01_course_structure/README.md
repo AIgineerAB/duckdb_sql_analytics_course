@@ -1,25 +1,10 @@
 # Course structure
 
-## NOT FINISHED YET
-
-Video on the course structure 
-
 **part 1 - slides**
 
-<!-- <a href="https://youtu.be/-9y2Jw-ETZA" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/01_course_structure_1.png?raw=true" alt="dbeaver navigation" width="600">
-</a> -->
-
-**part 2 - Github repo**
-
-<!-- <a href="https://youtu.be/woVKB99-KFg" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/01_course_structure_2.png?raw=true" alt="dbeaver navigation" width="600">
-</a> -->
-
-
-
-
-
+<a href="https://youtu.be/weC950i58Gs" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/course_structure.png?raw=true" alt="course structure" width="600">
+</a>
 
 All course material can be found in this github repository. The course material is described in this table
 
