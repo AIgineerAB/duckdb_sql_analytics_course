@@ -1,9 +1,9 @@
-/* text functions only for duckdb */
+/* duckdb specific, many other SQL dialects don't have these */
 
--- getitem
+-- index
 SELECT
 	sql_word,
-	sql_word[0], 
+	sql_word[0],  -- count from 1
 	sql_word[1], 
 	sql_word[-1], 
 FROM
@@ -17,5 +17,3 @@ SELECT
 FROM
 	staging.sql_glossary;
 
--- concatenation
-SELECT 'fun' || ' joke'

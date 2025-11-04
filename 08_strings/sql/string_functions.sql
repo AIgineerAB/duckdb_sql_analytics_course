@@ -44,7 +44,8 @@ SELECT
 	select_position != 0 as about_select
 FROM staging.sql_glossary
 
-   
+-- concatenation
+SELECT 'fun' || ' joke'
    
    
    
