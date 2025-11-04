@@ -14,7 +14,7 @@ SELECT
 FROM
 	staging.sql_glossary;
 
--- replace 2 or more spaces with 1 space
+-- replace 2 more spaces with 1 space
 SELECT
 	description, 
 	replace(description, '  ', ' ') as cleaned_description

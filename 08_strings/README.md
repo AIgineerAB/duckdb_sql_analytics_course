@@ -1,19 +1,16 @@
 # Strings
 
-
 **Part 1 strings theory**
 
 <a href="https://youtu.be/F9I7aM4k9ug" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/text_concept.png?raw=true" alt="strings in duckdb" width="600">
 </a>
 
-## TODO video
-
 **Part 2 - strings coding**
 
-<!-- <a href="https://youtu.be/7DUrBs5q6kM" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/09_a_strings.png?raw=true" alt="strings in duckdb" width="600">
-</a> -->
+<a href="https://youtu.be/Bg0ao01CjDU" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/text_tutorial.png?raw=true" alt="strings in duckdb" width="600">
+</a>
 
 In this lecture we'll work with string functions, wildcards and regular expression. I strongly recommend you to check the documentation for text operations as we won't cover them all in this lecture.
 
@@ -60,6 +57,7 @@ From duckdb documentation
 - [regular expression specific for duckdb](https://duckdb.org/docs/stable/sql/functions/regular_expressions)
 
 Other sources
+
 - [string functions](https://www.geeksforgeeks.org/sql/sql-string-functions/)
 - [wildcards](https://www.w3schools.com/sql/sql_wildcards.asp)
 - [regex](https://www.geeksforgeeks.org/sql/regular-expressions-in-sql/)
