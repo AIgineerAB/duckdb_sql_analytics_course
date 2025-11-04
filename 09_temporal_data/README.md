@@ -22,6 +22,7 @@
 ## Read more 👓
 
 From duckdb documentation
+- [date data type](https://duckdb.org/docs/stable/sql/data_types/date)
+- [timestamp data type](https://duckdb.org/docs/stable/sql/data_types/timestamp)
 - [date functions](https://duckdb.org/docs/sql/functions/date)
-- [date part functions](https://duckdb.org/docs/sql/functions/datepart.html)
-- [interval type](https://duckdb.org/docs/sql/data_types/interval.html)
+- [timestamp functions](https://duckdb.org/docs/stable/sql/functions/timestamp)
