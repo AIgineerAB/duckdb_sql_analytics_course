@@ -8,15 +8,17 @@ We will use [sakila database from kaggle](https://www.kaggle.com/datasets/atanas
   <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/set_theory.png?raw=true" alt="set operations in duckdb" width="600">
 </a>
 
+<br>
+<br>
 
-## TODO: videos
 **Part 2 - set operations coding**
 
-<!-- <a href="https://youtu.be/UE8wAHXRuJw" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/10_a_set_operations.png?raw=true" alt="set operations in duckdb" width="600">
-</a> -->
+<a href="https://youtu.be/yYQDSBJrDwg" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/set_tutorial.png?raw=true" alt="set operations in duckdb" width="600">
+</a>
 
 
+## TODO: videos
 **Part 3 - set operations with sakila database coding**
 
 <a href="https://youtu.be/K6Wb0Wu-qsA" target="_blank">
