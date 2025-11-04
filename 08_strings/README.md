@@ -57,6 +57,7 @@ Here are some common regex patterns which can be used for string matching
 From duckdb documentation
 
 - [text functions specific for duckdb](https://duckdb.org/docs/sql/functions/char.html)
+- [regular expression specific for duckdb](https://duckdb.org/docs/stable/sql/functions/regular_expressions)
 
 Other sources
 - [string functions](https://www.geeksforgeeks.org/sql/sql-string-functions/)
