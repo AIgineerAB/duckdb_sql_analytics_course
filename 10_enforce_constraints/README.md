@@ -1,8 +1,8 @@
-# Enforcing constraints
+# Enforcing constraints for data integrity
 
 ## NOT FINISHED YET
 
-## Types of constraints
+## Common constraints at column level
 - NOT NULL constraint
 - UNIQUE constraint
 - CHECK constraint
