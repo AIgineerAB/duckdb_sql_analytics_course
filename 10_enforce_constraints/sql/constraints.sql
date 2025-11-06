@@ -48,4 +48,27 @@ VALUES ('Amy'),
        ('Bill'); -- both rows will have value of 2025 in the second column
 DROP TABLE students
 
--- csv load?
+/* ===================
+   Enforce constraints 
+   with ALTER TABLE
+   =================== */
+-- note that not all constraints can be added with ALTER TABLE statement
+
+-- DEFAULT constraint
+CREATE TABLE students 
+    (name VARCHAR,
+    age INTEGER);
+
+INSERT INTO students (name) 
+VALUES ('Amy'); -- age is NULL for this entry
+
+ALTER TABLE students
+ALTER COLUMN age SET DEFAULT 10;
+
+INSERT INTO students (name) 
+VALUES ('Bill'); -- age is 10 for this entry  
+
+ALTER TABLE students
+ALTER COLUMN age DROP DEFAULT; -- drop the constraint
+
+

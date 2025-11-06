@@ -15,6 +15,7 @@
 From duckdb documentation
 
 - [sql constraints for duckdb](https://duckdb.org/docs/stable/sql/constraints)
+- [alter table for duckdb](https://duckdb.org/docs/stable/sql/statements/alter_table)
 
 Other sources
 - [sql constraints](https://www.geeksforgeeks.org/sql/sql-constraints/)
