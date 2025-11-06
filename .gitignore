@@ -207,6 +207,9 @@ marimo/_lsp/
 __marimo__/
 
 
+# vscode
+.vscode
+
 # mac
 *.DS_Store
 
