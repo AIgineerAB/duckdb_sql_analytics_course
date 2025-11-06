@@ -1,0 +1,6 @@
+booking_id,guest_name,check_in,check_out,room_type,guests,price_sek_per_night,breakfast,source,status
+H2025-03-011,Maria Berg,2025-03-21,2025-03-22,Standard,3,1250,Yes,Hotels.com,Confirmed
+H2025-03-012,Isak Axelsson,2025-03-15,2025-03-18,Single,1,1012,Yes,Direct,Confirmed
+H2025-03-013,Elin Håkansson,2025-03-12,2025-03-13,Standard,2,1151,Yes,Direct,Cancelled
+H2025-03-014,Elias Bengtsson,2025-03-08,2025-03-09,Single,2,1097,Yes,Hotels.com,Confirmed
+H2025-03-015,Albin Lundberg,2025-03-01,2025-03-03,Single,1,1027,No,Expedia,Confirmed

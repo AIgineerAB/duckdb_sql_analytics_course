@@ -1,0 +1,6 @@
+booking_id,guest_name,check_in,check_out,room_type,guests,price_sek_per_night,breakfast,source,status
+H2025-02-006,Daniel Karlsson,2025-02-02,2025-02-04,Standard,2,1190,Yes,Direct,Confirmed
+H2025-02-007,Elin Andersson,2025-02-07,2025-02-09,Deluxe,2,1520,Yes,Booking.com,Confirmed
+H2025-02-008,Lukas Eriksson,2025-02-12,2025-02-13,Single,1,940,No,Expedia,Confirmed
+H2025-02-009,Olivia Larsson,2025-02-18,2025-02-20,Standard,2,1210,Yes,Direct,Confirmed
+H2025-02-010,Viktor Persson,2025-02-24,2025-02-26,Deluxe,3,1580,Yes,Hotels.com,Confirmed

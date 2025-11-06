@@ -1,0 +1,6 @@
+booking_id,guest_name,check_in,check_out,room_type,guests,price_sek_per_night,breakfast,source,status
+H2025-01-001,Anna Berg,2025-01-05,2025-01-07,Standard,2,1150,Yes,Direct,Confirmed
+H2025-01-002,Johan Nilsson,2025-01-10,2025-01-11,Single,1,890,No,Booking.com,Confirmed
+H2025-01-003,Sofia Lind,2025-01-14,2025-01-16,Deluxe,2,1450,Yes,Expedia,Confirmed
+H2025-01-004,Erik Svensson,2025-01-20,2025-01-22,Standard,3,1250,Yes,Direct,Confirmed
+H2025-01-005,Maria Johansson,2025-01-27,2025-01-28,Single,1,920,No,Hotels.com,Cancelled
