@@ -50,10 +50,20 @@ SELECT
     pc.sunlight
 FROM
     main.plants p
-FULL JOIN 
-    main.plant_care pc ON p.plant_id = pc.plant_id;
+    FULL JOIN main.plant_care pc ON p.plant_id = pc.plant_id;
 
 SELECT
     *
 FROM
     main.plants p;
+
+
+-- cross join, joins everything row in plants with every row in plant_care
+SELECT
+    p.plant_id,
+    p.plant_name,
+    pc.water_schedule,
+    pc.sunlight
+FROM
+    plants p
+    CROSS JOIN plant_care pc;
