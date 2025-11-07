@@ -1,0 +1,25 @@
+sale_id,neighborhood_id,address,date_of_sale,property_type,rooms,living_area_sqm,year_built,sale_price_usd
+S-24001,1,124 Maple Crest Ave,2024-10-09,Apartment,2,58,2018,245575
+S-24002,1,9 Birch Hollow Ln,2025-02-21,Townhouse,4,112,2006,454575
+S-24003,2,77 Riverwalk Way,2025-03-18,Detached,5,168,1999,757625
+S-24004,2,18 Marina Bluff Ct,2025-07-05,Apartment,3,86,2015,412775
+S-24005,3,401 Quarry Gate Rd,2024-12-12,Semi-Detached,4,124,1987,381425
+S-24006,3,15 Basalt Spur,2025-05-27,Loft,2,72,2020,297825
+S-24007,4,990 Vista Crest Dr,2025-01-16,Detached,6,212,2003,883025
+S-24008,4,44 Lantern Ridge Pl,2025-08-11,Apartment,2,61,2017,287375
+S-24009,5,223 Lakeview Promenade,2024-11-03,Condo,3,88,2012,370975
+S-24010,5,7 Echo Bay Mews,2025-04-22,Townhouse,4,118,2010,485925
+S-24011,6,130 Coral Lantern St,2025-06-09,Bungalow,3,96,1995,423225
+S-24012,6,59 Sunset Arcade,2025-10-31,Apartment,1,44,2021,219450
+S-24013,7,812 Cedar Trace Ct,2025-02-02,Detached,4,152,2008,517275
+S-24014,7,4 Meadow Lark Aly,2025-09-14,Condo,2,69,2019,256025
+S-24015,8,300 Brookfield Crossing,2024-12-28,Loft,2,76,2005,334400
+S-24016,8,51 Millstone Quay,2025-03-30,Apartment,3,82,2016,355300
+S-24017,9,930 Willow Downs Cir,2025-01-08,Semi-Detached,4,128,1992,402325
+S-24018,9,26 Lantern Brook Row,2025-07-21,Terraced,3,94,2001,350075
+S-24019,10,75 Orchard Terrace W,2025-04-05,Detached,5,176,1998,642675
+S-24020,10,5 Cider Mill Close,2025-10-15,Apartment,2,59,2022,266475
+S-24021,11,418 Northgate Commons Rd,2024-11-18,Townhouse,4,121,2011,493240
+S-24022,11,62 Beacon Sound Blvd,2025-08-03,Condo,2,67,2018,311410
+S-24023,12,12 Harbor Point Esplanade,2025-05-11,Detached,4,164,2007,694925
+S-24024,12,301 Azure Quay,2025-09-28,Apartment,1,48,2020,245575

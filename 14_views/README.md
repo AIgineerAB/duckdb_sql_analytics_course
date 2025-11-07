@@ -1,8 +1,17 @@
 # Views
 - a saved SQL query as a virtual table
+- the query is executed everytime it is accessed
+- no data are stored
 
 
 ## NOT FINISHED YET
+
+
+## Purposes of Views
+- restrict accesses to underlying tables
+- simplify complex queries (for examples, involving joins of many tables) for users
+- customerize data for different users
+- maintain stable interface between underlying tables and downstream consumers (for example, when column names change in the underlying tables)
 
 
 ## Other videos 📹
