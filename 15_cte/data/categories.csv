@@ -1,0 +1,18 @@
+category_id,category_name,parent_category_id
+100,Electronics,
+101,Computers,100
+102,Laptops,101
+103,Desktops,101
+104,Tablets,101
+105,Phones,100
+106,Accessories,100
+110,Home & Kitchen,
+111,Furniture,110
+112,Appliances,110
+120,Sports & Outdoors,
+121,Fitness,120
+122,Camping,120
+130,Books,
+140,Toys & Games,
+150,Beauty & Personal Care,
+160,Grocery,

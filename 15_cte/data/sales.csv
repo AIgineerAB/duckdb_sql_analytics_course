@@ -1,0 +1,101 @@
+product_id,product_name,category_id,quantity,unit_price_sek
+P-0001,Ultrabook 13\" 8GB/256GB,102,2,11990
+P-0002,Gaming Laptop 15\" 16GB/512GB,102,1,15990
+P-0003,Office Desktop i5,103,3,7990
+P-0004,All-in-One PC 24\",103,1,9990
+P-0005,Android Tablet 10\",104,2,3490
+P-0006,Kids Tablet 8\",104,1,1890
+P-0007,Smartphone 6.1\" 128GB,105,2,6990
+P-0008,Smartphone 6.7\" 256GB,105,1,8990
+P-0009,USB-C Cable 1m,106,5,129
+P-0010,Wireless Mouse,106,3,249
+P-0011,Mechanical Keyboard,106,2,990
+P-0012,27\" 4K Monitor,100,1,3490
+P-0013,Noise-Cancelling Headphones,100,2,2490
+P-0014,Laptop Sleeve 13\",106,4,199
+P-0015,Standing Desk,111,1,3490
+P-0016,Ergo Office Chair,111,2,2290
+P-0017,Bookshelf Oak,111,1,1590
+P-0018,Air Fryer 5L,112,2,1290
+P-0019,Espresso Machine,112,1,3490
+P-0020,Vacuum Cleaner,112,1,1990
+P-0021,Stainless Saucepan 3L,110,3,349
+P-0022,Chef Knife 20cm,110,2,599
+P-0023,Dumbbell Set 2×10kg,121,1,1190
+P-0024,Yoga Mat 6mm,121,4,249
+P-0025,Treadmill Foldable,121,1,5990
+P-0026,Camping Tent 4P,122,1,1890
+P-0027,Sleeping Bag -5°C,122,2,799
+P-0028,Hiking Backpack 40L,122,1,990
+P-0029,Novel: Nordic Noir,130,3,179
+P-0030,Cookbook: Veggie Meals,130,2,229
+P-0031,Children’s Picture Book,130,4,129
+P-0032,Board Game Strategy,140,2,499
+P-0033,RC Car Starter,140,1,699
+P-0034,Building Bricks 1000pcs,140,1,899
+P-0035,Facial Cleanser 200ml,150,3,149
+P-0036,Moisturizer 50ml,150,2,199
+P-0037,Shampoo 500ml,150,4,89
+P-0038,Organic Oat Milk 1L,160,6,29
+P-0039,Arabica Coffee Beans 1kg,160,2,199
+P-0040,Pasta Fusilli 1kg,160,5,39
+P-0041,Convertible Laptop 14\",102,1,13990
+P-0042,Gaming Desktop RTX,103,1,17990
+P-0043,Tablet Stylus,104,3,399
+P-0044,Phone Case Clear,105,5,149
+P-0045,MagSafe Charger,106,2,499
+P-0046,Bluetooth Speaker,100,2,899
+P-0047,LED Desk Lamp,110,2,399
+P-0048,Kitchen Mixer,112,1,2490
+P-0049,Protein Powder 1kg,121,2,349
+P-0050,Trekking Poles,122,2,599
+P-0051,Crime Thriller HB,130,2,249
+P-0052,Plush Bear 30cm,140,3,199
+P-0053,Lip Balm,150,5,59
+P-0054,Olive Oil 750ml,160,3,119
+P-0055,Business Laptop 15\" 32GB/1TB,102,1,19990
+P-0056,Mini PC,103,2,3490
+P-0057,8\" Reading Tablet,104,2,1490
+P-0058,5G Smartphone 256GB,105,1,9990
+P-0059,USB-C Hub 6-in-1,106,2,699
+P-0060,Action Camera 4K,100,1,2990
+P-0061,Dining Table 6p,111,1,4490
+P-0062,Recliner Armchair,111,1,3490
+P-0063,Induction Cooktop,112,1,3990
+P-0064,Blender 1.5L,112,1,990
+P-0065,Kettle 1.7L,112,2,399
+P-0066,Kettlebell 16kg,121,1,499
+P-0067,Resistance Bands Set,121,3,199
+P-0068,Camping Stove,122,1,699
+P-0069,Headlamp 300lm,122,2,299
+P-0070,Scandi Design Book,130,1,299
+P-0071,Card Game Family,140,4,149
+P-0072,Kids Puzzle 1000pcs,140,2,249
+P-0073,Sunscreen SPF50 200ml,150,3,179
+P-0074,Hand Soap Refill 1L,150,4,79
+P-0075,Granola 750g,160,3,59
+P-0076,Sparkling Water 12×330ml,160,2,89
+P-0077,Creator Laptop 16\" 64GB,102,1,24990
+P-0078,Workstation Tower,103,1,22990
+P-0079,Tablet Keyboard Cover,104,2,799
+P-0080,Wireless Earbuds,105,2,1490
+P-0081,Phone Screen Protector,105,5,129
+P-0082,HDMI Cable 2m,106,4,149
+P-0083,Smart Home Hub,100,1,1490
+P-0084,Soundbar 2.1,100,1,1990
+P-0085,Bookshelf Pine,111,2,899
+P-0086,Robot Vacuum,112,1,4490
+P-0087,Air Purifier,112,1,2490
+P-0088,Cast Iron Skillet 26cm,110,2,549
+P-0089,Gym Bench,121,1,1790
+P-0090,Foam Roller,121,3,249
+P-0091,Camping Chair,122,2,399
+P-0092,Water Filter Bottle,122,2,349
+P-0093,Classic Novel PB,130,3,129
+P-0094,STEM Toy Kit,140,1,599
+P-0095,Bath Bomb Set,150,2,229
+P-0096,Dark Chocolate 85% 100g,160,5,29
+P-0097,Herbal Tea 40 bags,160,3,49
+P-0098,Student Laptop 14\" 8GB,102,2,6990
+P-0099,Office Desktop i7,103,1,10990
+P-0100,Premium Smartphone 512GB,105,1,12990
