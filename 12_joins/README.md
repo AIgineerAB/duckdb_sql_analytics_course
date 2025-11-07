@@ -2,13 +2,14 @@
 
 We'll be using the same sakila database as in last lecture, so copy it over to this lecture and reuse it.
 
-## TODO: video
 
 **Part 1 - joins in SQL theory**
 
-<!-- <a href="https://youtu.be/IXEC4rsINj0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/11_joins_theory.png?raw=true" alt="joins in duckdb" width="600">
-</a> -->
+<a href="https://youtu.be/LcI6GvmpuYA" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/joins_concept.png?raw=true" alt="joins in duckdb concepts" width="600">
+</a>
+
+## TODO: video
 
 **Part 2 - joins in SQL coding**
 
@@ -16,6 +17,7 @@ We'll be using the same sakila database as in last lecture, so copy it over to t
   <img src="https://github.com/kokchun/assets/blob/main/sql/11_joins_coding.png?raw=true" alt="joins in duckdb" width="600">
 </a> -->
 
+**Part 3 - joins in Sakila database**
 
 
 
