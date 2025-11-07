@@ -63,7 +63,22 @@ select
 	strftime(Date, '%d/%m/%Y') as Date_String
 from staging.sweden_holidays;
 
+-- convert string to date
+SELECT
+    date,
+    strftime (date, '%d/%m/%Y') as date_string,
+    typeof (date_string),
+    strptime (date_string, '%d/%m/%Y')::DATE as new_date,
+    typeof (new_date)
+FROM
+    staging.sweden_holidays;
 
+
+-- convert string to timestamp
+select 
+	Date,
+	strptime('2025-12-31', '%Y-%m-%d') as Date_Timestamp
+from staging.sweden_holidays;
 
 
 
