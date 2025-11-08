@@ -9,14 +9,15 @@ We'll be using the same sakila database as in last lecture, so copy it over to t
   <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/joins_concept.png?raw=true" alt="joins in duckdb concepts" width="600">
 </a>
 
-## TODO: video
 
 **Part 2 - joins in SQL coding**
 
-<!-- <a href="https://youtu.be/dfFkIG0TagM" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/11_joins_coding.png?raw=true" alt="joins in duckdb" width="600">
-</a> -->
+<a href="https://youtu.be/1TtQJQMdDEQ" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/joins_tutorial.png?raw=true" alt="joins in duckdb tutorial" width="600">
+</a>
 
+
+## TODO: video
 **Part 3 - joins in Sakila database**
 
 
