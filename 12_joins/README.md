@@ -8,6 +8,8 @@ We will use [sakila database from kaggle](https://www.kaggle.com/datasets/atanas
   <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/joins_concept.png?raw=true" alt="joins in duckdb concepts" width="600">
 </a>
 
+<br>
+<br>
 
 **Part 2 - joins in SQL coding**
 
@@ -15,9 +17,13 @@ We will use [sakila database from kaggle](https://www.kaggle.com/datasets/atanas
   <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/joins_tutorial.png?raw=true" alt="joins in duckdb tutorial" width="600">
 </a>
 
+<br>
+<br>
 
-## TODO: video
 **Part 3 - joins in Sakila database**
+<a href="https://youtu.be/RjPen0FavwU" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/joins_sakila.png?raw=true" alt="joins in duckdb tutorial" width="600">
+</a>
 
 
 

@@ -43,7 +43,7 @@ INNER JOIN main.film f ON
 	f.film_id = fc.film_id ; 
 
 
-
+-- a cross join since it category_id doesn't exist in film 
 SELECT
 	COUNT(*)
 FROM
