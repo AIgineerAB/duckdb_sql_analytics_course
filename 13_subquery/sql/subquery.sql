@@ -8,14 +8,14 @@ select
 from
    staging.students
 where
-   grade_math > (
+   score > (
       select
-         avg(grade_math)
+         avg(score)
       from
          staging.students
    ) -- subquery in ()
 order by
-   grade_math;
+   score;
 
 /* ===================
 Multi-row subquery 
@@ -28,9 +28,9 @@ select
 from
    staging.students
 where
-   class_name IN (
+   grade IN (
       select
-         class_name
+         grade
       from
          staging.teachers
       where
@@ -49,22 +49,22 @@ select
 from
    staging.students s
 where
-   s.grade_math > (
+   s.score > (
       select
-         avg(grade_math)
+         avg(score)
       from
          staging.students
       where
-         class_name = s.class_name
+         grade = s.grade
    ) -- subquery in ()
 order by
-   s.class_name;
+   s.grade;
 
 -- check the resutls of the above by looking at the avg grade per class
 select
-   class_name,
-   avg(grade_math) as class_avg_grade
+   grade,
+   avg(score) as class_avg_grade
 FROM
    staging.students
 group by
-   class_name;
+   grade;
