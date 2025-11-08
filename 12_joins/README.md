@@ -1,7 +1,6 @@
 # Joins
 
-We'll be using the same sakila database as in last lecture, so copy it over to this lecture and reuse it.
-
+We will use [sakila database from kaggle](https://www.kaggle.com/datasets/atanaskanev/sqlite-sakila-sample-database?resource=download). It's a fictious database representing DVD rental store created originally by MySQL for practicing SQL.  
 
 **Part 1 - joins in SQL theory**
 
