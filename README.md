@@ -26,4 +26,4 @@ For this you will be using the following tools:
 | 3        | temporal data, check, set operations                      | 09-11        | 2            |
 | 4        | joins, subquery, views, CTE                               | 12-15        | 3, lab       |
 | 5        | window functions, python & duckdb                         | 16-19        | lab          |
-| 6        | buffer                                                    |              | lab          |
+| 6        | macros, sql injection                                     | 20-21        | lab          |
