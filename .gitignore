@@ -216,3 +216,6 @@ __marimo__/
 # duckdb
 *.wal
 *.duckdb
+
+# testing file
+test
