@@ -2,9 +2,6 @@
 
 In this exercise, you get to familiarize yourself with SQL. For the practical exercises, you can open up your local repository as a project and make new connections to each databse file that you will work with.
 
-> [!NOTE]
-> To ingest data to the database, you should use CLI in combination with SQL script, as the relative path from dbeaver is not from the repository. Also absolute path is not recommended as this won't work for another computer.
-
 ## 0. Making a course database
 
 Create a database called `sql_course_structure.duckdb` and go into the course github repo to find the underlying information. Now create a table containing information about the course similar to this table
@@ -46,7 +43,7 @@ Go to this [link to download hemnet data from kaggle](https://www.kaggle.com/dat
 
 &nbsp; a) Create a database file called `hemnet.duckdb` and ingest the data from the csv file into your database.
 
-&nbsp; b) Make a wildcard selection to checkout the data
+&nbsp; b) Make a wildcard selection to checkout the data (use the asterisk symbol)
 
 &nbsp; c) Find out how many rows there are in the table
 
@@ -66,29 +63,50 @@ Go to this [link to download hemnet data from kaggle](https://www.kaggle.com/dat
 
 &nbsp; k) Feel free to explore anything else you find interesting in this dataset.
 
-## 2. Theory questions
+## 2. Exploring bike store data
+
+You can find ordering data for a bike store in a csv file called *bike_joined_table.csv* under `exercises/data/` in the current repository. Place the csv file into your local repository.
+
+&nbsp; a) Create a database file called `bike_join.duckdb` and ingest the data from the csv file into your database.
+
+&nbsp; b) The column *order_id* is the unique identifier of an order. How many unique orders are in the data?
+
+&nbsp; c) A unique order can involve multiple products. The column *product_id* is the unique identifier of a product. How many unique products are in the data?
+
+&nbsp; d) For the product with *product_name* Surly Straggler - 2016, how many customers have ordered it? How much is the total sales value coming from these orders? 
+
+&nbsp; e) How many customers are coming from these cities: San Angelo, Orchard Park and Merrick?
+
+&nbsp; f) Create a new column *manager_name* using the information below:
+
+| manager_id        | manager_name |
+| ------------------- | ----------- |
+| 1               |   Amy Andersson          | 
+| 2              |    Bill Berg     |
+| 5          |   Cathy Larsson           |
+| 7          |   Davis Lam         |
+
+
+## 3. Theory questions
 
 These study questions are good to get an overview of how SQL and relational databases work.
 
 &nbsp; a) What is SQL, and why is it important in relational databases?
 
-&nbsp; b) Explain the difference between HAVING and WHERE clauses.
+&nbsp; b) Explain the difference between FROM and WHERE clauses.
 
-&nbsp; c) Explain the purpose of the LIMIT or TOP clause in a SQL query.
+&nbsp; c) Explain the purpose of the LIMIT or OFFSET clause in a SQL query.
 
 &nbsp; d) What are the primary functions of the Data Definition Language (DDL) in SQL?
 
 &nbsp; e) Explain the differences between the Data Manipulation Language (DML) and Data Definition Language (DDL).
 
-&nbsp; f) What type of dot commands are there in duckdb?
+&nbsp; f) What makes DuckDB unique compared to other databases?
 
-&nbsp; g) What makes DuckDB unique compared to other databases?
+&nbsp; g) Is DuckDB suitable for real-time data processing?
 
-&nbsp; h) Is DuckDB suitable for real-time data processing?
+&nbsp; h) Difference between read_csv and read_csv_auto
 
-&nbsp; i) Difference between read_csv and read_csv_auto
-
-&nbsp; j) What is the purpose and advantages of using an IDE such as DBeaver?
 
 ## Glossary
 
