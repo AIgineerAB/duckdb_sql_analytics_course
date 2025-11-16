@@ -1,6 +1,9 @@
 # Exercise 0 - Introduction to SQL
 
-In this exercise, you get to familiarize yourself with SQL. For the practical exercises, you can open up your local repository as a project and make new connections to each databse file that you will work with.
+In this exercise, you get to familiarize yourself with SQL.
+
+> [!NOTE]
+> To ingest data to the database, you should use CLI in combination with SQL script
 
 ## 0. Making a course database
 
@@ -65,29 +68,28 @@ Go to this [link to download hemnet data from kaggle](https://www.kaggle.com/dat
 
 ## 2. Exploring bike store data
 
-You can find ordering data for a bike store in a csv file called *bike_joined_table.csv* under `exercises/data/` in the current repository. Place the csv file into your local repository.
+You can find ordering data for a bike store in a csv file called _bike_joined_table.csv_ under `exercises/data/` in the current repository. Place the csv file into your local repository.
 
 The data is composed of raw data csv files from [hemnet](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database).
 
 &nbsp; a) Create a database file called `bike_join.duckdb` and ingest the data from the csv file into your database.
 
-&nbsp; b) The column *order_id* is the unique identifier of an order. How many unique orders are in the data?
+&nbsp; b) The column _order_id_ is the unique identifier of an order. How many unique orders are in the data?
 
-&nbsp; c) A unique order can involve multiple products. The column *product_id* is the unique identifier of a product. How many unique products are in the data?
+&nbsp; c) A unique order can involve multiple products. The column _product_id_ is the unique identifier of a product. How many unique products are in the data?
 
-&nbsp; d) For the product with *product_name* Surly Straggler - 2016, how many customers have ordered it? How much is the total sales value coming from these orders? 
+&nbsp; d) For the product with _product_name_ Surly Straggler - 2016, how many customers have ordered it? How much is the total sales value coming from these orders?
 
 &nbsp; e) How many customers are coming from these cities: San Angelo, Orchard Park and Merrick?
 
-&nbsp; f) Create a new column *manager_name* using the information below:
+&nbsp; f) Create a new column _manager_name_ using the information below:
 
-| manager_id        | manager_name |
-| ------------------- | ----------- |
-| 1               |   Amy Andersson          | 
-| 2              |    Bill Berg     |
-| 5          |   Cathy Larsson           |
-| 7          |   Davis Lam         |
-
+| manager_id | manager_name  |
+| ---------- | ------------- |
+| 1          | Amy Andersson |
+| 2          | Bill Berg     |
+| 5          | Cathy Larsson |
+| 7          | Davis Lam     |
 
 ## 3. Theory questions
 
@@ -108,7 +110,6 @@ These study questions are good to get an overview of how SQL and relational data
 &nbsp; g) Is DuckDB suitable for real-time data processing?
 
 &nbsp; h) Difference between read_csv and read_csv_auto
-
 
 ## Glossary
 
