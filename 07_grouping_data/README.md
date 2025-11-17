@@ -5,7 +5,7 @@ Watch this video on how to group data using `GROUP BY` clause.
 **Part 1 group by theory*
 
 <a href="https://youtu.be/WZN3yRCFBTE" target="_blank">
-<img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/grouping_concepts≤.png?raw=true" alt="group by clause" width="600">
+<img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/grouping_concepts.png?raw=true" alt="group by clause" width="600">
 </a>
 
 **Part 2 group by coding**

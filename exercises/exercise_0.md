@@ -70,7 +70,7 @@ Go to this [link to download hemnet data from kaggle](https://www.kaggle.com/dat
 
 You can find ordering data for a bike store in a csv file called _bike_joined_table.csv_ under `exercises/data/` in the current repository. Place the csv file into your local repository.
 
-The data is composed of raw data csv files from [hemnet](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database).
+The data is composed of raw data csv files from [kaggle](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database).
 
 &nbsp; a) Create a database file called `bike_join.duckdb` and ingest the data from the csv file into your database.
 
