@@ -8,6 +8,7 @@ dependencies = [
     "duckdb>=1.4.1",
     "ipykernel>=7.1.0",
     "marimo[sql]>=0.17.2",
+    "matplotlib>=3.10.7",
     "numpy>=2.3.4",
     "pandas>=2.3.3",
     "uvicorn>=0.38.0",
