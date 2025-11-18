@@ -3,7 +3,7 @@
 - create a duckdb database from Python 
 
 
-## NOT FINISHED YET
+
 
 ## Setup
 
