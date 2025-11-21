@@ -1,0 +1,6 @@
+# This file was automatically generated
+name: sakila
+type: duckdb
+options:
+  filename: sakila.duckdb
+
