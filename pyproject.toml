@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "dlt>=1.18.2",
     "duckdb>=1.4.1",
     "ipykernel>=7.1.0",
     "marimo[sql]>=0.17.2",

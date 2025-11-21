@@ -17,7 +17,7 @@ uv init
 Then run
 
 ```bash
-uv add ipykernel duckdb pandas
+uv add ipykernel duckdb pandas matplotlib
 ```
 
 to install packages to your virtual environment.
