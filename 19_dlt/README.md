@@ -4,8 +4,10 @@ Data load tool (dlt) from dlthub is a fantastic tool for EL and ingesting data f
 
 We will use [sakila database from kaggle](https://www.kaggle.com/datasets/atanaskanev/sqlite-sakila-sample-database?resource=download). It's a fictious database representing DVD rental store created originally by MySQL for practicing SQL.  
 
+<a href="https://youtu.be/WuC9cOicRUE" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/dlt.png?raw=true" alt="dlt to move sqlite to duckdb tutorial" width="600">
+</a>
 
-TODO: video about dlt
 
 ## Setup
 
