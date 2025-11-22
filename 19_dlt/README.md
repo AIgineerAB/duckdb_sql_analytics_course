@@ -12,7 +12,7 @@ TODO: video about dlt
 Run the following uv command to install dlt and all other necessary dependencies.
 
 ```bash
-uv add dlt 
+uv add "dlt[sql_database]" 
 ```
 
 
