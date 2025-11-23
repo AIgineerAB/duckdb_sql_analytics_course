@@ -2,6 +2,11 @@
 
 You should copy over the sakila.duckdb database file that you generated when following the 19_dlt lecture. Follow the video and I'll explain where to place it and how to setup evidence to create a dashboard over the sakila data.
 
+<a href="https://youtu.be/8jMIRtGwReY" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/evidence.png?raw=true" alt="build dashboard in evidence with markdown and duckdb tutorial" width="600">
+</a>
+
+
 ## Setup
 
 To work with evidence, we need to install nodejs **version 22**. 
