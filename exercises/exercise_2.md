@@ -10,7 +10,7 @@ In this exercise, you get to make more complex querying with SQL. For the practi
 
 ## 0. Cleaning malformed text data
 
-Continue working on the data from lecture 09_strings. In this lecture you created a schema called staging and ingested the raw data into the staging schema.
+Continue working on the data from lecture 08_strings. In this lecture you created a schema called staging and ingested the raw data into the staging schema.
 
 &nbsp; a) Create a schema called refined. This is the schema where you'll put the transformed data.
 
@@ -20,7 +20,7 @@ Continue working on the data from lecture 09_strings. In this lecture you create
 
 ## 1. More extensive EDA on the sakila database
 
-You will be using the same database as in 11_joins. Take some time to really understand this database, as we'll come back to this database later in this course and in data modeling course.
+You will be using the same database as in 12_joins. Take some time to really understand this database, as we'll come back to this database later in this course and in data modeling course.
 
 &nbsp; a) Describe all tables.
 
