@@ -14,7 +14,7 @@ We will use [sakila database from kaggle](https://www.kaggle.com/datasets/atanas
 Run the following uv command to install dlt and all other necessary dependencies.
 
 ```bash
-uv add "dlt[sql_database]" duckdb pandas ipykernel
+uv add "dlt[sql_database]" "dlt[parquet]" duckdb pandas ipykernel
 ```
 
 
