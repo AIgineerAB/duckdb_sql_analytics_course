@@ -18,5 +18,5 @@ with duckdb.connect(DB_PATH) as conn:
 
 # ';DROP TABLE users;--
 
-# alice' OR '1'='1
+# alice' OR '1'='1'--
 # ' OR '1'='1' --
