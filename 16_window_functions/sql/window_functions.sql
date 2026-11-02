@@ -1,4 +1,4 @@
-
+/* Use case 1: generate row number */
 
 -- create row number
 SELECT 
@@ -13,6 +13,8 @@ SELECT
   job_title,
   salary_in_usd
 FROM data_jobs;
+
+/* Use case 2: rank */
 
 -- rank 
 SELECT 
@@ -40,6 +42,8 @@ SELECT
   salary_in_usd,
   first_value(salary_in_usd) OVER (PARTITION BY job_title ORDER BY salary_in_usd DESC) as highest_salary,
 FROM data_jobs;
+
+/* Use case 3: showing aggregated value for each row */
 
 -- with aggregation function
 SELECT 
