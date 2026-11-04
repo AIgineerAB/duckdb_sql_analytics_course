@@ -50,7 +50,7 @@ To add environment variable, you should go into system properties &gt; advanced 
 Now go into git bash and run
 
 ```bash
-duckdb version
+duckdb --version
 ```
 
 to see if it worked.
