@@ -55,6 +55,12 @@ duckdb --version
 
 to see if it worked.
 
+Check also if you can use duckdb local ui. It depends on both the duckdb version and your os. 
+
+```bash
+duckdb -ui
+```
+
 ## Bash commands
 
 If you are in windows use git bash, if you are in mac or linux just use the terminal. In visual studio code open up a terminal then you can set the default profile of your terminal to open up in git bash
