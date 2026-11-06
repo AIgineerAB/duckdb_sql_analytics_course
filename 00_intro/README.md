@@ -1,10 +1,10 @@
 # Introduction to SQL with duckdb
 
-<a href="https://youtu.be/-A9Cr1BlMQk" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/duckdb_analytics/intro_motivation.png?raw=true" alt="introduction to SQL with duckdb" width="600">
+<a href="https://www.youtube.com/watch?v=MISSEf_T2kU" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/databasteori/what_is_data.png?raw=true" alt="what is data and database video" width="600">
 </a>
 
-This section gives a background to databases, what types of databases there are and going into the history of relational databases and the evolution of SQL. We'll also cover the importance of SQL and an introduction to DuckDB. Further there will be a short introduction to OLAP vs OLTP, which we will continue on in the data modeling course.
+This section gives a background to databases and SQL. 
 
 ## Other videos 📹
 
